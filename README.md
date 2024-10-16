@@ -1,0 +1,2 @@
+# LeadTracker
+ A Chrome Extension for Efficient Lead Tracking This extension, built using HTML, CSS, and JavaScript, allows users to seamlessly track and save leads by capturing URLs and associated text information from any website. It provides a simple yet powerful tool for managing website-specific data, making it ideal for professionals who need to organize and revisit important links and notes. With a user-friendly interface and local storage support, users can store and access their leads efficiently, directly within the browser.
